@@ -1,0 +1,3 @@
+[submodule "utils/p2-admin"]
+	path = utils/p2-admin
+	url = https://github.com/mbarbero/p2-admin.git
